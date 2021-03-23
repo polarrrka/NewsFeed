@@ -1,6 +1,8 @@
 {
-  "employee": "Koni",
-  "position": "usak",
-  "image": "https://im.moulik.cz/2020/05/31/1174940-rabbit-3864120_1920-base_16x9.jpg.653?1590891272.0",
-  "description": "hryzec měsíce"
+  "employeeofTheMonth": {
+    "employee": "Koni",
+    "position": "usak",
+    "image": "https://im.moulik.cz/2020/05/31/1174940-rabbit-3864120_1920-base_16x9.jpg.653?1590891272.0",
+    "description": "hryzec měsíce"
+  }
 }

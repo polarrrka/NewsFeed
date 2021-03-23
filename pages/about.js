@@ -21,7 +21,7 @@ export default function AboutPage({ employee }) {
 
 export const getServerSideProps = async (pageContext) => {
   const res = await fetch(
-    "https://my-json-server.typicode.com/portexe/next-news/employeeofTheMonth"
+    "https://my-json-server.typicode.com/polarrrka/NewsFeed/employeeofTheMonth"
   );
 
   const employee = await res.json();
